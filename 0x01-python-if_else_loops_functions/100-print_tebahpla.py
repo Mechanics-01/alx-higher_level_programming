@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 a = 0
 for b in range(ord('z'), ord('a') -1, -1):
     print("{}".format(chr(b - a)), end='')
